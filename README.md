@@ -30,7 +30,7 @@ element in `index.html`.
 Try out the following in the Chrome DevTools console:
 
 ```js
-const input = document.getElementById('input');
+const main = document.getElementById('main');
 
 main.addEventListener('click', function(event) {
   alert('I was clicked!');
